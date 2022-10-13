@@ -13,3 +13,6 @@
 [submodule "App_04"]
 	path = App_04
 	url = https://github.com/yurifsantos/Alcool_ou_Gasolina.git
+[submodule "App_05"]
+	path = App_05
+	url = https://github.com/yurifsantos/Calculadora_Gorjeta.git
