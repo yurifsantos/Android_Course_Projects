@@ -7,3 +7,6 @@
 [submodule "App_02"]
 	path = App_02
 	url = https://github.com/yurifsantos/Spotify_layout.git
+[submodule "App_03"]
+	path = App_03
+	url = https://github.com/yurifsantos/Impar_Par.git
