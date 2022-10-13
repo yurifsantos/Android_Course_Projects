@@ -4,3 +4,6 @@
 [submodule "App_01"]
 	path = App_01
 	url = https://github.com/yurifsantos/Seleciona_Num.git
+[submodule "App_02"]
+	path = App_02
+	url = https://github.com/yurifsantos/Spotify_layout.git
