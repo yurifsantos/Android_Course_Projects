@@ -10,3 +10,6 @@
 [submodule "App_03"]
 	path = App_03
 	url = https://github.com/yurifsantos/Impar_Par.git
+[submodule "App_04"]
+	path = App_04
+	url = https://github.com/yurifsantos/Alcool_ou_Gasolina.git
